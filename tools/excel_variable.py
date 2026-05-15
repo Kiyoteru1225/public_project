@@ -1,0 +1,13 @@
+class ExcelVariable:
+    case_id = '用例编号'
+    case_title = '用例标题'
+    case_protocol = '请求协议'
+    case_host = '接口地址'
+    case_uri = '资源标识符'
+    case_address_param = '地址参数'
+    case_method = '请求方式'
+    case_headers = '请求头'
+    case_params = '请求参数'
+    case_code = '状态码'
+    case_front = '前置条件'
+    case_expected = '预期结果'
